@@ -1,0 +1,30 @@
+.tab {
+    border: 0.1em solid black;
+    border-collapse: collapse;
+    background-color: rgba(173, 216, 230, 0.863);
+}
+
+tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 10em;
+    height: 3em;
+}
+
+#f2 {
+    background-color: rgb(135, 201, 135);
+}
+
+#col3 {
+    background-color: pink;
+}
+#f2 #col3 {
+    background-color: rgb(245, 245, 85);
+}
+#f3 #col2 {
+    background-color: rgba(0, 0, 0, 0.562)
+}
+
+#f1 #col1, #f4 #col4 {
+    background-color: orange;
+}

@@ -1,0 +1,29 @@
+.cont {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #FFEBCD;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    border: 25px solid brown;
+    padding: 10px;
+    margin-left: 500px;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+#listaInicio {
+    list-style-type: none;
+    padding-left: 0;
+    position: relative;
+    top: 50px;
+    
+}
+
+#lista {
+    list-style-type: none;
+    padding-left: 0;
+    position: relative;
+    top: 150px;
+}
+a {
+    color:black;
+}
